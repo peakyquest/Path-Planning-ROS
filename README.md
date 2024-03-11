@@ -34,7 +34,8 @@ In developing the path planning package, certain important assumptions have been
 
 
 ## Example 
-Following is the example of dijkstra algorithm
+Following is the example of dijkstra algorithm:
+
 ![dijkstra_result](https://github.com/peakyquest/Path-Planning-ROS/assets/162409782/99db0d31-2d14-4299-9371-87d147f474b4)
 
 
